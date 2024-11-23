@@ -1,9 +1,9 @@
-🚀 Features: 
-    Responsive layout 
-    Navigation bar with dropdown menus
-    Product listing grid
-    Footer with links and information
-    Basic animations and hover effects 
+🚀 Features:  
+    Responsive layout  
+    Navigation bar with dropdown menus  
+    Product listing grid  
+    Footer with links and information  
+    Basic animations and hover effects  
 
 
 🔧 Technologies Used
